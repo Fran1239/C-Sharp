@@ -1,0 +1,17 @@
+C:\Users\Usuario\OneDrive\Escritorio\Programacion\C#\Ejercitacion\WinFormsApp6_LectorDni\bin\Debug\net7.0-windows\WinFormsApp6_LectorDni.exe
+C:\Users\Usuario\OneDrive\Escritorio\Programacion\C#\Ejercitacion\WinFormsApp6_LectorDni\bin\Debug\net7.0-windows\WinFormsApp6_LectorDni.deps.json
+C:\Users\Usuario\OneDrive\Escritorio\Programacion\C#\Ejercitacion\WinFormsApp6_LectorDni\bin\Debug\net7.0-windows\WinFormsApp6_LectorDni.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Escritorio\Programacion\C#\Ejercitacion\WinFormsApp6_LectorDni\bin\Debug\net7.0-windows\WinFormsApp6_LectorDni.dll
+C:\Users\Usuario\OneDrive\Escritorio\Programacion\C#\Ejercitacion\WinFormsApp6_LectorDni\bin\Debug\net7.0-windows\WinFormsApp6_LectorDni.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Programacion\C#\Ejercitacion\WinFormsApp6_LectorDni\obj\Debug\net7.0-windows\WinFormsApp6_LectorDni.Form1.resources
+C:\Users\Usuario\OneDrive\Escritorio\Programacion\C#\Ejercitacion\WinFormsApp6_LectorDni\obj\Debug\net7.0-windows\WinFormsApp6_LectorDni.Properties.Resources.resources
+C:\Users\Usuario\OneDrive\Escritorio\Programacion\C#\Ejercitacion\WinFormsApp6_LectorDni\obj\Debug\net7.0-windows\WinFormsApp6_LectorDni.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Escritorio\Programacion\C#\Ejercitacion\WinFormsApp6_LectorDni\obj\Debug\net7.0-windows\WinFormsApp6_LectorDni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Escritorio\Programacion\C#\Ejercitacion\WinFormsApp6_LectorDni\obj\Debug\net7.0-windows\WinFormsApp6_LectorDni.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\Programacion\C#\Ejercitacion\WinFormsApp6_LectorDni\obj\Debug\net7.0-windows\WinFormsApp6_LectorDni.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Escritorio\Programacion\C#\Ejercitacion\WinFormsApp6_LectorDni\obj\Debug\net7.0-windows\WinFormsApp6_LectorDni.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\Programacion\C#\Ejercitacion\WinFormsApp6_LectorDni\obj\Debug\net7.0-windows\WinFormsApp6_LectorDni.dll
+C:\Users\Usuario\OneDrive\Escritorio\Programacion\C#\Ejercitacion\WinFormsApp6_LectorDni\obj\Debug\net7.0-windows\refint\WinFormsApp6_LectorDni.dll
+C:\Users\Usuario\OneDrive\Escritorio\Programacion\C#\Ejercitacion\WinFormsApp6_LectorDni\obj\Debug\net7.0-windows\WinFormsApp6_LectorDni.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Programacion\C#\Ejercitacion\WinFormsApp6_LectorDni\obj\Debug\net7.0-windows\WinFormsApp6_LectorDni.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Escritorio\Programacion\C#\Ejercitacion\WinFormsApp6_LectorDni\obj\Debug\net7.0-windows\ref\WinFormsApp6_LectorDni.dll

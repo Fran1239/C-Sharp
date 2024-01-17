@@ -1,0 +1,16 @@
+C:\Users\Usuario\OneDrive\Escritorio\Selenium\WinFormsApp5_Piano\bin\Debug\net7.0-windows\WinFormsApp5_Piano.exe
+C:\Users\Usuario\OneDrive\Escritorio\Selenium\WinFormsApp5_Piano\bin\Debug\net7.0-windows\WinFormsApp5_Piano.deps.json
+C:\Users\Usuario\OneDrive\Escritorio\Selenium\WinFormsApp5_Piano\bin\Debug\net7.0-windows\WinFormsApp5_Piano.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Escritorio\Selenium\WinFormsApp5_Piano\bin\Debug\net7.0-windows\WinFormsApp5_Piano.dll
+C:\Users\Usuario\OneDrive\Escritorio\Selenium\WinFormsApp5_Piano\bin\Debug\net7.0-windows\WinFormsApp5_Piano.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Selenium\WinFormsApp5_Piano\obj\Debug\net7.0-windows\WinFormsApp5_Piano.Form1.resources
+C:\Users\Usuario\OneDrive\Escritorio\Selenium\WinFormsApp5_Piano\obj\Debug\net7.0-windows\WinFormsApp5_Piano.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Escritorio\Selenium\WinFormsApp5_Piano\obj\Debug\net7.0-windows\WinFormsApp5_Piano.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Escritorio\Selenium\WinFormsApp5_Piano\obj\Debug\net7.0-windows\WinFormsApp5_Piano.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\Selenium\WinFormsApp5_Piano\obj\Debug\net7.0-windows\WinFormsApp5_Piano.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Escritorio\Selenium\WinFormsApp5_Piano\obj\Debug\net7.0-windows\WinFormsApp5_Piano.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\Selenium\WinFormsApp5_Piano\obj\Debug\net7.0-windows\WinFormsApp5_Piano.dll
+C:\Users\Usuario\OneDrive\Escritorio\Selenium\WinFormsApp5_Piano\obj\Debug\net7.0-windows\refint\WinFormsApp5_Piano.dll
+C:\Users\Usuario\OneDrive\Escritorio\Selenium\WinFormsApp5_Piano\obj\Debug\net7.0-windows\WinFormsApp5_Piano.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Selenium\WinFormsApp5_Piano\obj\Debug\net7.0-windows\WinFormsApp5_Piano.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Escritorio\Selenium\WinFormsApp5_Piano\obj\Debug\net7.0-windows\ref\WinFormsApp5_Piano.dll

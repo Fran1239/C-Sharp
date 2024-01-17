@@ -1,0 +1,16 @@
+C:\Users\Usuario\OneDrive\Escritorio\Programacion\C#\Ejercitacion\WinFormsApp3_calculadora\bin\Debug\net7.0-windows\WinFormsApp3_calculadora.exe
+C:\Users\Usuario\OneDrive\Escritorio\Programacion\C#\Ejercitacion\WinFormsApp3_calculadora\bin\Debug\net7.0-windows\WinFormsApp3_calculadora.deps.json
+C:\Users\Usuario\OneDrive\Escritorio\Programacion\C#\Ejercitacion\WinFormsApp3_calculadora\bin\Debug\net7.0-windows\WinFormsApp3_calculadora.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Escritorio\Programacion\C#\Ejercitacion\WinFormsApp3_calculadora\bin\Debug\net7.0-windows\WinFormsApp3_calculadora.dll
+C:\Users\Usuario\OneDrive\Escritorio\Programacion\C#\Ejercitacion\WinFormsApp3_calculadora\bin\Debug\net7.0-windows\WinFormsApp3_calculadora.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Programacion\C#\Ejercitacion\WinFormsApp3_calculadora\obj\Debug\net7.0-windows\WinFormsApp3_calculadora.Form1.resources
+C:\Users\Usuario\OneDrive\Escritorio\Programacion\C#\Ejercitacion\WinFormsApp3_calculadora\obj\Debug\net7.0-windows\WinFormsApp3_calculadora.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Escritorio\Programacion\C#\Ejercitacion\WinFormsApp3_calculadora\obj\Debug\net7.0-windows\WinFormsApp3_calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Escritorio\Programacion\C#\Ejercitacion\WinFormsApp3_calculadora\obj\Debug\net7.0-windows\WinFormsApp3_calculadora.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\Programacion\C#\Ejercitacion\WinFormsApp3_calculadora\obj\Debug\net7.0-windows\WinFormsApp3_calculadora.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Escritorio\Programacion\C#\Ejercitacion\WinFormsApp3_calculadora\obj\Debug\net7.0-windows\WinFormsApp3_calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\Programacion\C#\Ejercitacion\WinFormsApp3_calculadora\obj\Debug\net7.0-windows\WinFormsApp3_calculadora.dll
+C:\Users\Usuario\OneDrive\Escritorio\Programacion\C#\Ejercitacion\WinFormsApp3_calculadora\obj\Debug\net7.0-windows\refint\WinFormsApp3_calculadora.dll
+C:\Users\Usuario\OneDrive\Escritorio\Programacion\C#\Ejercitacion\WinFormsApp3_calculadora\obj\Debug\net7.0-windows\WinFormsApp3_calculadora.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Programacion\C#\Ejercitacion\WinFormsApp3_calculadora\obj\Debug\net7.0-windows\WinFormsApp3_calculadora.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Escritorio\Programacion\C#\Ejercitacion\WinFormsApp3_calculadora\obj\Debug\net7.0-windows\ref\WinFormsApp3_calculadora.dll

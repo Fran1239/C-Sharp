@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "WinFormsApp6_LectorDni/1.0.0": {
+        "runtime": {
+          "WinFormsApp6_LectorDni.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinFormsApp6_LectorDni/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

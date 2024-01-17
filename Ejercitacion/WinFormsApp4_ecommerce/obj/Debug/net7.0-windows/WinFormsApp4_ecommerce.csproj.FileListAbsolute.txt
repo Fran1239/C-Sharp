@@ -1,0 +1,17 @@
+C:\Users\Usuario\OneDrive\Escritorio\Programacion\C#\Ejercitacion\WinFormsApp4_ecommerce\bin\Debug\net7.0-windows\WinFormsApp4_ecommerce.exe
+C:\Users\Usuario\OneDrive\Escritorio\Programacion\C#\Ejercitacion\WinFormsApp4_ecommerce\bin\Debug\net7.0-windows\WinFormsApp4_ecommerce.deps.json
+C:\Users\Usuario\OneDrive\Escritorio\Programacion\C#\Ejercitacion\WinFormsApp4_ecommerce\bin\Debug\net7.0-windows\WinFormsApp4_ecommerce.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Escritorio\Programacion\C#\Ejercitacion\WinFormsApp4_ecommerce\bin\Debug\net7.0-windows\WinFormsApp4_ecommerce.dll
+C:\Users\Usuario\OneDrive\Escritorio\Programacion\C#\Ejercitacion\WinFormsApp4_ecommerce\bin\Debug\net7.0-windows\WinFormsApp4_ecommerce.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Programacion\C#\Ejercitacion\WinFormsApp4_ecommerce\obj\Debug\net7.0-windows\WinFormsApp4_ecommerce.Form1.resources
+C:\Users\Usuario\OneDrive\Escritorio\Programacion\C#\Ejercitacion\WinFormsApp4_ecommerce\obj\Debug\net7.0-windows\WinFormsApp4_ecommerce.Properties.Resources.resources
+C:\Users\Usuario\OneDrive\Escritorio\Programacion\C#\Ejercitacion\WinFormsApp4_ecommerce\obj\Debug\net7.0-windows\WinFormsApp4_ecommerce.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Escritorio\Programacion\C#\Ejercitacion\WinFormsApp4_ecommerce\obj\Debug\net7.0-windows\WinFormsApp4_ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Escritorio\Programacion\C#\Ejercitacion\WinFormsApp4_ecommerce\obj\Debug\net7.0-windows\WinFormsApp4_ecommerce.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\Programacion\C#\Ejercitacion\WinFormsApp4_ecommerce\obj\Debug\net7.0-windows\WinFormsApp4_ecommerce.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Escritorio\Programacion\C#\Ejercitacion\WinFormsApp4_ecommerce\obj\Debug\net7.0-windows\WinFormsApp4_ecommerce.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\Programacion\C#\Ejercitacion\WinFormsApp4_ecommerce\obj\Debug\net7.0-windows\WinFormsApp4_ecommerce.dll
+C:\Users\Usuario\OneDrive\Escritorio\Programacion\C#\Ejercitacion\WinFormsApp4_ecommerce\obj\Debug\net7.0-windows\refint\WinFormsApp4_ecommerce.dll
+C:\Users\Usuario\OneDrive\Escritorio\Programacion\C#\Ejercitacion\WinFormsApp4_ecommerce\obj\Debug\net7.0-windows\WinFormsApp4_ecommerce.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Programacion\C#\Ejercitacion\WinFormsApp4_ecommerce\obj\Debug\net7.0-windows\WinFormsApp4_ecommerce.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Escritorio\Programacion\C#\Ejercitacion\WinFormsApp4_ecommerce\obj\Debug\net7.0-windows\ref\WinFormsApp4_ecommerce.dll
